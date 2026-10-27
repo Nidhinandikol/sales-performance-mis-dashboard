@@ -20,7 +20,7 @@ This project explores sales performance through a Power BI dashboard designed to
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Sales Report ss.png)
+![Sales Performance Dashboard](Sales%20Report%20ss.png)
 
 ## Key Analysis
 
